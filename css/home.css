@@ -672,6 +672,7 @@ body {
 }
 
 .fa-twitter:hover{
+  /* color: red; */
   color: cyan;
 }
 
