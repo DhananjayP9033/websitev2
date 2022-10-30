@@ -655,6 +655,7 @@ body {
 }
 
 .fab:hover{
+  /* on hover */
   cursor: pointer;
 }
 
